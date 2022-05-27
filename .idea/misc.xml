@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable-v24/circletransparant.xml" value="0.123" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable-v24/ic_email.xml" value="0.123" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable-v24/ic_password.xml" value="0.123" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable-v24/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable/book_hotel.xml" value="0.1" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable/ic_success.xml" value="0.1" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/drawable/profile.xml" value="0.1" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_book_hotel.xml" value="0.25" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_book_kereta.xml" value="0.3625" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_history.xml" value="0.33" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_profile.xml" value="0.13297872340425532" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/bg_home_curve.xml" value="0.1" />
+        <entry key="..\:/Users/Asus VivoBook 14/AndroidStudioProjects/Gercep1/app/src/main/res/layout/list_item_booking.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

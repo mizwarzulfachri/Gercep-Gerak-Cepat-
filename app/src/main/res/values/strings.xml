@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gercep1</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="Travel">Gercep</string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="travel_apps_booking">Gercep</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukan_password_lagi">Masukan password lagi</string>
+    <string name="password">Password</string>
+    <string name="travel_apps_by_azhar_rivaldi_2020">© Travel Apps by Azhar Rivaldi 2020</string>
+    <string name="login">Login</string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+</resources>
